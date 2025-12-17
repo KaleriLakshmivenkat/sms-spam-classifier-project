@@ -1,2 +1,18 @@
-# email-spam-classifier-new
-End to end code for the email spam classifier project
+# SMS Spam Classifier
+
+This project is a machine learning based SMS spam classifier.
+It predicts whether a message is spam or not using NLP techniques.
+
+## Overview
+The model processes text messages and classifies them as spam or ham
+using a trained machine learning model.
+
+## Technologies Used
+- Python
+- Machine Learning
+- NLTK
+- Flask
+
+## Note
+This project was developed by learning from an online tutorial
+and understanding the implementation.

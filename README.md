@@ -10,9 +10,3 @@ using a trained machine learning model.
 ## Technologies Used
 - Python
 - Machine Learning
-- NLTK
-- Flask
-
-## Note
-This project was developed by learning from an online tutorial
-and understanding the implementation.
